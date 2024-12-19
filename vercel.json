@@ -1,0 +1,4 @@
+{
+  "build": {},
+  "buildCommand": "next build && npx prisma generate"
+}
